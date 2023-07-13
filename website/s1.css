@@ -1,0 +1,27 @@
+.h-para{
+    padding:20px;
+    margin:30px;
+    font-size: 40px;
+    font-style: italic;
+    
+
+}
+.h-heading{
+    padding:30px;
+    margin:20px; 
+    font-style: italic; 
+    text-align: center;
+    font-size: 150px;
+    
+}
+.back-button{
+    padding:12px;
+    background-color:rgb(148, 138, 140);
+    border-radius:6px;
+    font-size:20px;
+    color:white;
+    cursor:pointer;
+    margin:20px;
+    
+   
+}

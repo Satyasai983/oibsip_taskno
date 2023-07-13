@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+body{
+    background-image: url('https://img.freepik.com/free-photo/fading-blue-background_53876-88684.jpg?w=740&t=st=1687850371~exp=1687850971~hmac=3a828c2d2de723a4fbc62b701d17075b078bbade0de4b2a79d86893eba26831e');
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+.contact-box{
+    width: 50vw;
+    background-color: aqua;
+    box-shadow: 0 0 20px 0 #999;
+    top:40%;
+    left:50%;
+   
+    position:absolue;
+    padding:30px;
+    margin:25px;
+    align-content: center;
+
+}
+form{
+    margin:25px;
+    padding:20px;
+
+
+}
+.input-field{
+    width:400px;
+    height:40px;
+    margin-top:20px;
+    padding-left:10px;
+    border:1px solid #777;
+    border-radius:14px;
+    outline:none;
+
+
+}
+.back-button{
+    padding:12px;
+    background-color:rgb(148, 138, 140);
+    border-radius:6px;
+    font-size:20px;
+    color:white;
+    cursor:pointer;
+    margin:20px;
+    
+   
+}
+.h-heading{
+    padding:10px;
+    margin:5px; 
+    font-style: italic; 
+    text-align: center;
+    font-size: 20px;
+    
+}
